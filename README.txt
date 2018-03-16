@@ -1,7 +1,7 @@
 Metroblocks
 by
 Andrew Quintanilla
-Makoa Fautua
+-removed m koa-
 Ray Liang
 
 Python 3.2.3, pygame
